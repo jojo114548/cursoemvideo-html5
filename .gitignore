@@ -1,2 +1,8 @@
+#Ignorar as extensões dos arquivos db
+*.db
+#Ignorar as extensões dos arquivos sql 
+*.sql
+#Ignorar as extensões dos arquivos rar
+*.rar
 
 .DS_Store
